@@ -48,7 +48,7 @@ function App() {
         style={customStyles}
       >
         
-        <h2>Find the Invisible Cow</h2>
+        <h2>Find the Invisible TechupLabs</h2>
         <h4>Drag your mouse (or finger) around to find the techup. It’s hiding behind the shouting.</h4>
         <button onClick={closeModal}>Start Game</button>
       </Modal>
