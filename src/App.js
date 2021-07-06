@@ -39,7 +39,7 @@ function App() {
         isOpen={state}
         style={customStyles}
       >
-        <img src={imgs}  /> 
+        <img src={imgs} alt="tech"  /> 
         <h3>Congratulations! You found techup labs! </h3>
         <button onClick={closeModal}>close</button>
       </Modal>
